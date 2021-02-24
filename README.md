@@ -1,7 +1,6 @@
-# Super-Secret-Toast-Token
+# Super_Secret_Toast_Token
 
 
-The start of the best thing in the world
 
 "No one knows what it is, but we just live with it."
 - Derek Webb
